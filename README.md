@@ -20,3 +20,5 @@ fractal dimension ("coastline approximation" - 1).
 
 Model Designing: 
 In this project, I built the Artificial Neural Network. Where the activation function used was Relu and in the last layer, I used sigmoid. Uniformly weights were distributed across all the hidden layers. Batch size and the number of epochs were 100 and 150 respectively. The optimizer used while building this model was Adamax. As the dependent variable was binary classified(Benign = 0, Malignant = 1), the loss function used was binary_crossentropy and the metric used was Accuracy.
+
+Dataset obtained from: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
